@@ -1,13 +1,19 @@
 
 
-<h2> Hello World! 👋I'm Meli </h2>
-<p> <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="150"> <em>Full Stack Web Developer (if you must)  
-</em></p>
+<h2> Hello World! I'm Meli </h2>
+<p> <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="150"> <br> Full Stack Web Developer <em>(if you must) </em>  
+</p>
 
 ***
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=melibass&show_icons=true&theme=tokyonight" style="width:50%" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melibass&layout=compact&theme=tokyonight" style="width:50%" />
+</a>
 
-![Meli's github stats](https://github-readme-stats.vercel.app/api?username=melibass&show_icons=true&theme=tokyonight)
+
 
 **Languages and Tools:** 
 <p align="left">
@@ -30,6 +36,8 @@
 
 </div>
 
+
+<img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 
 
 
