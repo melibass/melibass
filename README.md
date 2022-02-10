@@ -7,8 +7,7 @@
 ***
 
 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=melibass&show_icons=true)
+![Meli's github stats](https://github-readme-stats.vercel.app/api?username=melibass&show_icons=true&theme=tokyonight)
 
 **Languages and Tools:** 
 <p align="left">
