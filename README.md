@@ -12,11 +12,15 @@
  :computer: Last year I switched career paths from Tourism to Coding
  
  :books: At the moment, I'm studying React and Node.js<br>
-  
- :seedling: Curious, restless, always studying
+ 
+ :hearts: JS
+ 
+ :sparkles: Curious, restless, always studying
 
  :palm_tree: Love the beach, specially scuba-diving :goggles:
 
+ :dog: I have a mini dachshund called Sopa (AKA Soup)
+ 
  :zap: In my free time, I read and watch movies
 
 
