@@ -9,7 +9,7 @@
  <br>
  :telescope: I'm currently looking for my first IT job 
   
- :computer: Last year I switched career paths from Tourism to Coding
+ :computer: I switched career paths from Tourism to Coding
  
  :books: At the moment, I'm studying React and Node.js<br>
  
@@ -21,7 +21,7 @@
 
  :dog: I have a mini dachshund called Sopa (AKA Soup)
  
- :zap: In my free time, I read and watch movies
+ :zap: In my free time, I read, play videogames and watch movies
 
 
  
